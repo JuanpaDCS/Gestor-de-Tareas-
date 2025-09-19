@@ -41,6 +41,6 @@ El proyecto está organizado de manera modular para separar las responsabilidade
 `-- index.js                 # Punto de entrada principal de la aplicación.
 ```
 
-## 📂 Estructura del Código 
+## 🤝 Realizado por:🤝
 
  * Juan Pablo Cifuentes
